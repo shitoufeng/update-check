@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "downloadUrl": "https://wwbjk.lanzouq.com/i0PqO3p4sc7a",
-  "releaseNotes": "1. 新增自动更新检查功能\n2. 修复已知bug\n3. 优化编辑器性能\n4. 新增文件上传AI分析功能",
+  "version": "1.0.3",
+  "downloadUrl": "https://wwbjk.lanzouq.com/inCtP3p9much",
+  "releaseNotes": "1. 修改ai助手默认输出提示词，不再带有md类符号，输出内容质量更高\n2. 修复已知bug建议更新会更好用\n3. 优化编辑器性能",
   "forceUpdate": false
 }
