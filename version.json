@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "downloadUrl": "https://www.bjkl.lanzou.com/icD4G3pkjhch",
-  "releaseNotes": "1.版本更新了deepseek模型支持超长文本输出，设置输出值太大，导致AI助手里别的模型输出错误，这次把每个模型都设置了独立值，互不影响不会再输出报错\n2.修复已知bug建议更新会更好用\n3.优化编辑器性能",
+  "version": "1.0.6",
+  "downloadUrl": "https://wwbjk.lanzouq.com/iVBsJ3plc0li",
+  "releaseNotes": "1.昨天更新了deepseek模型支持超长文本输出，设置输出值太大，导致AI助手里别的模型输出错误，这次把每个模型都设置了独立值，互不影响不会再输出报错\n2.修复已知bug建议更新会更好用\n3.优化编辑器性能",
   "forceUpdate": false
 }
